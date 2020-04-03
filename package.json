@@ -1,0 +1,13 @@
+{
+  "name": "8thwall-nuxt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.12.2"
+  }
+}
